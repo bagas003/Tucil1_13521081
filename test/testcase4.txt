@@ -1,0 +1,4 @@
+10 K 4 A
+
+0 solution(s) found
+time taken: 0 ms
